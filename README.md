@@ -1,3 +1,3 @@
-# YOUR_PROJECT_NAM
-# YOUR_PROJECT_NAM
-text_in_image
+# TEXT IN IMAGE
+
+This is a model to extract text in an image
